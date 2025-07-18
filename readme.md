@@ -1,8 +1,3 @@
-Perfect — here’s your README.md fully cleaned up, no emojis, proper markdown formatting, and neat indentation. You can paste this directly:
-
-⸻
-
-
 # Gemini PDF Chatbot
 
 This is a LangChain-powered PDF chatbot that uses Gemini models for question answering over document chunks. FAISS is used for vector storage, and the entire pipeline is built using LangChain’s RAG components.
